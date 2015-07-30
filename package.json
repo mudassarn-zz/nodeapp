@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "Express app with EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+     "express" : "*",
+     "ejs" : "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudassarn/nodeapp.git"
+  },
+  "author": "Muhammad Mudassar Nazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudassarn/nodeapp/issues"
+  },
+  "homepage": "https://github.com/mudassarn/nodeapp#readme"
+}
